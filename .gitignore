@@ -1,5 +1,5 @@
 ### https://raw.github.com/github/gitignore/cb0a95c36f7c1fcb3f2ed2f2bcd5f78403b3caa4/Python.gitignore
-node_modules
+node_modules/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

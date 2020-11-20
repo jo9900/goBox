@@ -8,157 +8,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/views/Bills.vue" line="390" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="045f2ecf-fba2-479f-b280-db5a45b976b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/CHANGELOG.fr-FR.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/panel/month-range.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/form/src/label-wrap.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/timeline-item.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/timeline.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/timeline-item/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/timeline/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/timeline/src/item.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/timeline/src/main.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/hy-AM.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/kg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/types/timeline-item.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/element-ui/types/timeline.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/CHANGELOG.en-US.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/CHANGELOG.en-US.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/CHANGELOG.es.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/CHANGELOG.es.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/CHANGELOG.zh-CN.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/CHANGELOG.zh-CN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/alert/src/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/alert/src/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/autocomplete/src/autocomplete.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/autocomplete/src/autocomplete.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/badge/src/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/badge/src/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/carousel/src/item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/carousel/src/item.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/carousel/src/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/carousel/src/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/cascader/src/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/cascader/src/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/cascader/src/menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/cascader/src/menu.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/collapse/src/collapse-item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/collapse/src/collapse-item.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/color-picker/src/color.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/color-picker/src/color.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/color-picker/src/components/picker-dropdown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/color-picker/src/components/picker-dropdown.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/color-picker/src/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/color-picker/src/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/basic/date-table.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/basic/date-table.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/basic/month-table.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/basic/month-table.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/basic/time-spinner.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/basic/time-spinner.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/panel/date-range.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/panel/date-range.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/panel/date.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/panel/date.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/panel/time-select.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/panel/time-select.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/picker.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/picker.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/picker/date-picker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/picker/date-picker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/util/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/date-picker/src/util/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/dialog/src/component.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/dialog/src/component.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/dropdown/src/dropdown-item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/dropdown/src/dropdown-item.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/dropdown/src/dropdown-menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/dropdown/src/dropdown-menu.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/dropdown/src/dropdown.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/dropdown/src/dropdown.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/form/src/form-item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/form/src/form-item.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/form/src/form.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/form/src/form.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/input-number/src/input-number.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/input-number/src/input-number.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/input/src/input.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/input/src/input.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/loading/src/directive.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/loading/src/directive.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/menu/src/menu-item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/menu/src/menu-item.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/menu/src/menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/menu/src/menu.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/menu/src/submenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/menu/src/submenu.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/message/src/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/message/src/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/pagination/src/pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/pagination/src/pagination.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/popover/src/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/popover/src/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/progress/src/progress.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/progress/src/progress.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/radio/src/radio-button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/radio/src/radio-button.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/radio/src/radio.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/radio/src/radio.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/scrollbar/src/bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/scrollbar/src/bar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/select/src/select.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/select/src/select.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/slider/src/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/slider/src/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/steps/src/step.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/steps/src/step.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/switch/src/component.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/switch/src/component.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-body.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-body.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-column.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-column.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table-store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/table.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/table/src/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/tabs/src/tab-bar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/tabs/src/tab-bar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/tabs/src/tab-nav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/tabs/src/tab-nav.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/tabs/src/tab-pane.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/tabs/src/tab-pane.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/tabs/src/tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/tabs/src/tabs.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/tag/src/tag.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/tag/src/tag.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/autocomplete.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/autocomplete.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/badge.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/cascader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/cascader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/checkbox.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/checkbox.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/collapse.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/collapse.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/common/var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/common/var.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/date-range-picker.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/date-range-picker.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/date-table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/date-table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/month-table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/month-table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/picker-panel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/picker-panel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/picker.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/picker.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/time-picker.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/time-picker.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/year-table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/date-picker/year-table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/dialog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/dialog.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/input.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/option.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/option.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/popover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/popover.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/progress.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/radio-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/radio-button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/radio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/radio.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/select-dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/select-dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/select.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/select.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/tabs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/tag.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/tag.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/tooltip.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/transfer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/transfer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/tree.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/theme-chalk/src/tree.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/tooltip/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/tooltip/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/transfer/src/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/transfer/src/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/tree/src/model/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/tree/src/model/node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/tree/src/tree-node.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/tree/src/tree-node.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/tree/src/tree.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/tree/src/tree.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/upload/src/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/upload/src/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/packages/upload/src/upload-list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/packages/upload/src/upload-list.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ca.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ee.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ee.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/en.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/es.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/fi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/hu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ru-RU.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ru-RU.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/sl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ua.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ua.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ug-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/locale/lang/ug-CN.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/utils/popup/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/utils/popup/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/utils/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/utils/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/utils/vdom.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/utils/vdom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/src/utils/vue-popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/src/utils/vue-popper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/autocomplete.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/autocomplete.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/cascader.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/cascader.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/dropdown-item.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/dropdown-item.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/element-ui.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/element-ui.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/form.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/form.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/input.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/input.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/message-box.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/message-box.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/progress.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/progress.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/submenu.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/submenu.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/switch.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/switch.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/table.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/table.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/element-ui/types/tree.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/element-ui/types/tree.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resize-observer-polyfill/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resize-observer-polyfill/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/resize-observer-polyfill/src/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resize-observer-polyfill/src/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Bills.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Bills.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="045f2ecf-fba2-479f-b280-db5a45b976b5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -173,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+            <state relative-caret-position="1624">
+              <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -182,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Bills.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="310">
-              <caret line="400" column="45" lean-forward="true" selection-start-line="400" selection-start-column="45" selection-end-line="400" selection-end-column="45" />
+              <caret line="400" column="22" selection-start-line="400" selection-start-column="22" selection-end-line="400" selection-end-column="22" />
               <folding>
                 <element signature="e#135#141#0" expanded="true" />
                 <element signature="e#363#369#0" expanded="true" />
@@ -194,7 +44,6 @@
                 <element signature="n#el-table-column#1;n#el-table#0;n#div#2;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#style#0;n#el-date-picker#0;n#el-form-item#0;n#el-col#0;n#el-row#1;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#el-date-picker#0;n#el-form-item#0;n#el-col#1;n#el-row#1;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#11308#11937#0" />
               </folding>
             </state>
           </provider>
@@ -203,8 +52,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="433">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="232">
+                <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -212,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="667">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -221,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="406">
               <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
             </state>
           </provider>
@@ -230,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Boxes.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
+            <state relative-caret-position="2958">
               <caret line="102" column="45" selection-start-line="102" selection-start-column="45" selection-end-line="102" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#el-input#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
@@ -311,7 +181,6 @@
         <option value="$PROJECT_DIR$/src/views/Shop.vue" />
         <option value="$PROJECT_DIR$/src/views/Nav.vue" />
         <option value="$PROJECT_DIR$/src/components/Cards.vue" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/public/manifest.json" />
         <option value="$PROJECT_DIR$/static/index.html" />
         <option value="$PROJECT_DIR$/src/js/mixins.js" />
@@ -328,6 +197,8 @@
         <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/vue.config.js" />
         <option value="$PROJECT_DIR$/src/views/Bills.vue" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -358,8 +229,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="温州联强-无人售货机系统gobox对接" type="b2602c69:ProjectViewProjectNode" />
-              <item name="温州联强-无人售货机系统gobox对接" type="462c0819:PsiDirectoryNode" />
+              <item name="gobox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gobox" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -447,17 +318,17 @@
       <workItem from="1548645541759" duration="22000" />
       <workItem from="1555466352050" duration="230000" />
       <workItem from="1555466953101" duration="1596000" />
+      <workItem from="1605847240653" duration="284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199949000" />
+    <option name="totallyTimeSpent" value="200233000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1004" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="814" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24876674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -471,7 +342,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290461" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2550911" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.58864266" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -544,13 +415,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/manifest.json" />
     <entry file="file://$PROJECT_DIR$/public/index.html" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/babel.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -565,23 +429,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/etc/nginx/servers/dnl_logistics.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="539">
-            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/etc/nginx/servers/dnl_logistics.conf" />
     <entry file="file://$PROJECT_DIR$/src/store.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -625,16 +473,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1624">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="406">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Boxes.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
+        <state relative-caret-position="2958">
           <caret line="102" column="45" selection-start-line="102" selection-start-column="45" selection-end-line="102" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#el-input#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
@@ -647,34 +512,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Bills.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
-          <caret line="400" column="45" lean-forward="true" selection-start-line="400" selection-start-column="45" selection-end-line="400" selection-end-column="45" />
+          <caret line="400" column="22" selection-start-line="400" selection-start-column="22" selection-end-line="400" selection-end-column="22" />
           <folding>
             <element signature="e#135#141#0" expanded="true" />
             <element signature="e#363#369#0" expanded="true" />
@@ -682,8 +523,31 @@
             <element signature="n#el-table-column#1;n#el-table#0;n#div#2;n#div#0;n#template#0;n#!!top" />
             <element signature="n#style#0;n#el-date-picker#0;n#el-form-item#0;n#el-col#0;n#el-row#1;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#el-date-picker#0;n#el-form-item#0;n#el-col#1;n#el-row#1;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#11308#11937#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="232">
+            <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
